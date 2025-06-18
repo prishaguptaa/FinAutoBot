@@ -1,0 +1,62 @@
+=== MONTHLY AGGREGATES (Overall) [Top 5 Rows] ===
++-------------+-----------+-------------+--------------+--------------+---------------+
+| MonthYear   |   Balance |   cat_count |   cat_amount |   cat_inflow |   cat_outflow |
+|-------------+-----------+-------------+--------------+--------------+---------------|
+| 2025-01     |   95789.8 |         111 |       209545 |      77667.3 |        131878 |
+| 2025-02     |   52702.3 |         103 |       201283 |      79098   |        122185 |
+| 2025-03     |  -85910.4 |         110 |       163689 |      12537.9 |        151151 |
+| 2025-04     | -181450   |         112 |       258017 |      81238.6 |        176778 |
+| 2025-05     | -272240   |         122 |       260769 |      84989.6 |        175780 |
++-------------+-----------+-------------+--------------+--------------+---------------+
+
+=== MONTHLY CATEGORY/SUBCATEGORY AGGREGATES [Top 5 Rows] ===
++-------------+---------------------------+-------------------------+----------------+-----------------+-----------------+------------------+
+| MonthYear   | Category                  | Subcategory             |   subcat_count |   subcat_amount |   subcat_inflow |   subcat_outflow |
+|-------------+---------------------------+-------------------------+----------------+-----------------+-----------------+------------------|
+| 2025-01     | Food & Grocery            | Online Grocery Services |             26 |         51503.2 |             0   |          51503.2 |
+| 2025-01     | Income & Credits          | Salary & Wages          |              1 |         77667.3 |         77667.3 |              0   |
+| 2025-01     | Lifestyle & Entertainment | Dining & Restaurants    |             26 |         24651.1 |             0   |          24651.1 |
+| 2025-01     | Lifestyle & Entertainment | Subscription Services   |             31 |         15469   |             0   |          15469   |
+| 2025-01     | Shopping                  | Clothing & Accessories  |             27 |         40254.1 |             0   |          40254.2 |
++-------------+---------------------------+-------------------------+----------------+-----------------+-----------------+------------------+
+
+Recurring Transaction Details (Set Notation): {'LinkedIn Learning', 'Zomato Order', 'Amazon India', 'Relocation Cab Charges', 'New Startup Salary', 'BigBasket Groceries', 'Freelance Upwork Payment', 'Netflix Subscription', 'Work From Home Desk Setup'}
+
+=== RECURRING TRANSACTIONS MONTH-TO-MONTH INCREASES (Exact % Change) ===
++---------------------------+-------------+---------------+-------------------+-------------+---------------+
+| Transaction Detail        | MonthYear   |   DetailCount |   PrevDetailCount |   PctChange | ChangeLabel   |
+|---------------------------+-------------+---------------+-------------------+-------------+---------------|
+| LinkedIn Learning         | 2025-04     |             2 |                 1 |      100    | 100.0% inc    |
+| Relocation Cab Charges    | 2025-04     |             2 |                 1 |      100    | 100.0% inc    |
+| Work From Home Desk Setup | 2025-04     |             2 |                 1 |      100    | 100.0% inc    |
+| Zomato Order              | 2025-05     |            31 |                17 |       82.35 | 82.35% inc    |
+| Work From Home Desk Setup | 2025-05     |             3 |                 2 |       50    | 50.0% inc     |
++---------------------------+-------------+---------------+-------------------+-------------+---------------+
+
+=== RECURRING TRANSACTIONS MONTH-TO-MONTH DECREASES (Exact % Change) ===
++----------------------+-------------+---------------+-------------------+-------------+---------------+
+| Transaction Detail   | MonthYear   |   DetailCount |   PrevDetailCount |   PctChange | ChangeLabel   |
+|----------------------+-------------+---------------+-------------------+-------------+---------------|
+| Zomato Order         | 2025-04     |            17 |                28 |      -39.29 | 39.29% dec    |
+| Zomato Order         | 2025-06     |            21 |                31 |      -32.26 | 32.26% dec    |
+| Netflix Subscription | 2025-02     |            23 |                31 |      -25.81 | 25.81% dec    |
+| BigBasket Groceries  | 2025-05     |            23 |                30 |      -23.33 | 23.33% dec    |
+| BigBasket Groceries  | 2025-02     |            22 |                26 |      -15.38 | 15.38% dec    |
++----------------------+-------------+---------------+-------------------+-------------+---------------+
+
+=== LARGE SINGLE TRANSACTIONS (≥50% of Group Total) [Top 5 Rows] ===
++-------------+---------------------------+-------------------------+-------------------+---------------------+
+| MonthYear   | Category                  | Subcategory             |   LargestTxnRatio | HasLargeSingleTxn   |
+|-------------+---------------------------+-------------------------+-------------------+---------------------|
+| 2025-01     | Food & Grocery            | Online Grocery Services |         0.0581932 | False               |
+| 2025-01     | Income & Credits          | Salary & Wages          |         1         | True                |
+| 2025-01     | Lifestyle & Entertainment | Dining & Restaurants    |         0.060465  | False               |
+| 2025-01     | Lifestyle & Entertainment | Subscription Services   |         0.0322581 | False               |
+| 2025-01     | Shopping                  | Clothing & Accessories  |         0.0620575 | False               |
++-------------+---------------------------+-------------------------+-------------------+---------------------+
+
+=== SUMMARY ===
+Recurring transactions found for details: {'LinkedIn Learning', 'Zomato Order', 'Amazon India', 'Relocation Cab Charges', 'New Startup Salary', 'BigBasket Groceries', 'Freelance Upwork Payment', 'Netflix Subscription', 'Work From Home Desk Setup'}.
+Significant (≥50%) increases for recurring details: {'Relocation Cab Charges', 'Zomato Order', 'LinkedIn Learning', 'Work From Home Desk Setup'}.
+Large single txn (≥50% of monthly total) found in:
+2025-01 - Income & Credits/Salary & Wages, 2025-02 - Income & Credits/Salary & Wages, 2025-03 - Education & Childcare/Skill Development & Vocational Courses, 2025-03 - Income & Credits/Business Income, 2025-03 - Shopping/Gadget & Electronics purchases, 2025-03 - Transportation & Commute/Cab & Taxi services, 2025-04 - Education & Childcare/Skill Development & Vocational Courses, 2025-04 - Income & Credits/Business Income, 2025-04 - Income & Credits/Salary & Wages, 2025-04 - Shopping/Gadget & Electronics purchases, 2025-04 - Transportation & Commute/Cab & Taxi services, 2025-05 - Income & Credits/Business Income, 2025-05 - Income & Credits/Salary & Wages, 2025-06 - Income & Credits/Business Income, 2025-06 - Income & Credits/Salary & Wages

@@ -1,0 +1,210 @@
+Date,Credit,Debit,Balance,Transaction Detail,Category,Subcategory
+01-Jan-25,75000,-,115000.00,SALARY CREDIT FROM INFOSYS,Income & Credits,Salary & Wages
+02-Jan-25,-,2500,112500.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+02-Jan-25,-,800,111700.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+03-Jan-25,-,2200,109500.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+04-Jan-25,-,2000,107500.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+05-Jan-25,-,499,107001.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+06-Jan-25,-,4000,103001.00,Apollo Hospital Ultrasound Scan,Healthcare & Medical,Diagnostic & Lab Tests
+06-Jan-25,-,1100,101901.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+06-Jan-25,-,20000,81901.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+06-Jan-25,-,800,81101.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+07-Jan-25,-,5000,76101.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+08-Jan-25,-,2500,73601.00,Apollo Hospital Prenatal Checkup,Healthcare & Medical,Maternity-related Expenses
+08-Jan-25,-,5000,68601.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+09-Jan-25,-,2000,66601.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+11-Jan-25,-,499,66102.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+12-Jan-25,-,499,65603.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+13-Jan-25,-,1100,64503.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+13-Jan-25,-,2000,62503.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+15-Jan-25,-,2000,60503.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+15-Jan-25,-,5000,55503.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+17-Jan-25,-,1800,53703.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+17-Jan-25,-,800,52903.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+19-Jan-25,-,1800,51103.00,PharmEasy Postnatal Supplies,Healthcare & Medical,Medicines & Pharmacy
+20-Jan-25,-,2000,49103.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+23-Jan-25,-,20000,29103.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+23-Jan-25,-,3000,26103.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+24-Jan-25,-,55000,-28897.00,Apollo Hospital Delivery Charges,Healthcare & Medical,Hospitalization & Surgery expenses
+24-Jan-25,-,2000,-30897.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+25-Jan-25,-,4000,-34897.00,Apollo Hospital Ultrasound Scan,Healthcare & Medical,Diagnostic & Lab Tests
+25-Jan-25,-,1100,-35997.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+27-Jan-25,-,2000,-37997.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+28-Jan-25,-,800,-38797.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+29-Jan-25,-,1500,-40297.00,PharmEasy Prenatal Vitamins,Healthcare & Medical,Medicines & Pharmacy
+30-Jan-25,-,499,-40796.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+30-Jan-25,-,5000,-45796.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+01-Feb-25,75000,-,29204.00,SALARY CREDIT FROM INFOSYS,Income & Credits,Salary & Wages
+01-Feb-25,-,2000,27204.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+02-Feb-25,-,5000,22204.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+04-Feb-25,-,2000,20204.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+05-Feb-25,-,2500,17704.00,Apollo Hospital Prenatal Checkup,Healthcare & Medical,Maternity-related Expenses
+05-Feb-25,-,1800,15904.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+06-Feb-25,-,1100,14804.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+07-Feb-25,-,3000,11804.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+07-Feb-25,-,800,11004.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+09-Feb-25,-,5000,6004.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+10-Feb-25,-,20000,-13996.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+12-Feb-25,-,2200,-16196.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+13-Feb-25,-,55000,-71196.00,Apollo Hospital Delivery Charges,Healthcare & Medical,Hospitalization & Surgery expenses
+13-Feb-25,-,3000,-74196.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+14-Feb-25,-,2000,-76196.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+16-Feb-25,-,800,-76996.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+17-Feb-25,-,20000,-96996.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+18-Feb-25,-,2000,-98996.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+18-Feb-25,-,5000,-103996.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+20-Feb-25,-,2200,-106196.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+20-Feb-25,-,499,-106695.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+22-Feb-25,-,1100,-107795.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+22-Feb-25,-,20000,-127795.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+22-Feb-25,-,2000,-129795.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+25-Feb-25,-,4000,-133795.00,Apollo Hospital Ultrasound Scan,Healthcare & Medical,Diagnostic & Lab Tests
+25-Feb-25,-,1100,-134895.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+26-Feb-25,-,800,-135695.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+28-Feb-25,-,2000,-137695.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+01-Mar-25,75000,-,-62695.00,SALARY CREDIT FROM INFOSYS,Income & Credits,Salary & Wages
+01-Mar-25,-,2000,-64695.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+02-Mar-25,-,900,-65595.00,Swiggy Food Order,Food & Grocery,Packaged Snacks & Beverages
+02-Mar-25,-,2500,-68095.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+02-Mar-25,-,5000,-73095.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+02-Mar-25,-,800,-73895.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+04-Mar-25,-,2000,-75895.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+05-Mar-25,-,1100,-76995.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+06-Mar-25,-,499,-77494.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+08-Mar-25,-,2500,-79994.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+09-Mar-25,-,499,-80493.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+09-Mar-25,-,2000,-82493.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+09-Mar-25,-,3000,-85493.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+10-Mar-25,-,3000,-88493.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+11-Mar-25,-,2000,-90493.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+11-Mar-25,-,3000,-93493.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+12-Mar-25,-,1800,-95293.00,PharmEasy Postnatal Supplies,Healthcare & Medical,Medicines & Pharmacy
+12-Mar-25,-,1100,-96393.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+12-Mar-25,-,20000,-116393.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+14-Mar-25,-,1800,-118193.00,PharmEasy Postnatal Supplies,Healthcare & Medical,Medicines & Pharmacy
+17-Mar-25,-,800,-118993.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+19-Mar-25,-,800,-119793.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+20-Mar-25,-,800,-120593.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+21-Mar-25,-,1800,-122393.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+24-Mar-25,-,20000,-142393.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+25-Mar-25,-,2500,-144893.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+25-Mar-25,-,3000,-147893.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+27-Mar-25,-,2000,-149893.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+27-Mar-25,-,5000,-154893.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+28-Mar-25,-,2000,-156893.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+28-Mar-25,-,1800,-158693.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+29-Mar-25,-,5000,-163693.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+30-Mar-25,-,1800,-165493.00,PharmEasy Postnatal Supplies,Healthcare & Medical,Medicines & Pharmacy
+31-Mar-25,-,2000,-167493.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+31-Mar-25,-,3000,-170493.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+01-Apr-25,75000,-,-95493.00,SALARY CREDIT FROM INFOSYS,Income & Credits,Salary & Wages
+01-Apr-25,-,20000,-115493.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+01-Apr-25,-,800,-116293.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+02-Apr-25,-,2000,-118293.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+02-Apr-25,-,2200,-120493.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+02-Apr-25,-,2000,-122493.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+03-Apr-25,-,55000,-177493.00,Apollo Hospital Delivery Charges,Healthcare & Medical,Hospitalization & Surgery expenses
+03-Apr-25,-,900,-178393.00,Swiggy Food Order,Food & Grocery,Packaged Snacks & Beverages
+03-Apr-25,-,1100,-179493.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+03-Apr-25,-,20000,-199493.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+04-Apr-25,-,5000,-204493.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+05-Apr-25,-,1800,-206293.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+05-Apr-25,-,2000,-208293.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+05-Apr-25,-,3000,-211293.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+06-Apr-25,-,2200,-213493.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+06-Apr-25,-,20000,-233493.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+07-Apr-25,-,1100,-234593.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+07-Apr-25,-,20000,-254593.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+08-Apr-25,-,2200,-256793.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+08-Apr-25,-,2000,-258793.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+08-Apr-25,-,3000,-261793.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+09-Apr-25,-,2000,-263793.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+10-Apr-25,-,2200,-265993.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+10-Apr-25,-,2500,-268493.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+10-Apr-25,-,800,-269293.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+13-Apr-25,-,55000,-324293.00,Apollo Hospital Delivery Charges,Healthcare & Medical,Hospitalization & Surgery expenses
+14-Apr-25,-,55000,-379293.00,Apollo Hospital Delivery Charges,Healthcare & Medical,Hospitalization & Surgery expenses
+14-Apr-25,-,2200,-381493.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+15-Apr-25,-,3000,-384493.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+16-Apr-25,-,900,-385393.00,Swiggy Food Order,Food & Grocery,Packaged Snacks & Beverages
+16-Apr-25,-,499,-385892.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+20-Apr-25,-,4000,-389892.00,Apollo Hospital Ultrasound Scan,Healthcare & Medical,Diagnostic & Lab Tests
+20-Apr-25,-,800,-390692.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+21-Apr-25,-,4000,-394692.00,Apollo Hospital Ultrasound Scan,Healthcare & Medical,Diagnostic & Lab Tests
+21-Apr-25,-,5000,-399692.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+24-Apr-25,-,1800,-401492.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+24-Apr-25,-,1100,-402592.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+25-Apr-25,-,5000,-407592.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+25-Apr-25,-,800,-408392.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+26-Apr-25,-,3000,-411392.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+30-Apr-25,-,3000,-414392.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+01-May-25,75000,-,-339392.00,SALARY CREDIT FROM INFOSYS,Income & Credits,Salary & Wages
+01-May-25,-,1500,-340892.00,PharmEasy Prenatal Vitamins,Healthcare & Medical,Medicines & Pharmacy
+01-May-25,-,499,-341391.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+02-May-25,-,1100,-342491.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+03-May-25,-,2000,-344491.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+04-May-25,-,2500,-346991.00,Apollo Hospital Prenatal Checkup,Healthcare & Medical,Maternity-related Expenses
+07-May-25,-,2000,-348991.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+07-May-25,-,800,-349791.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+08-May-25,-,499,-350290.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+08-May-25,-,2500,-352790.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+08-May-25,-,2000,-354790.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+09-May-25,-,5000,-359790.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+11-May-25,-,3000,-362790.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+13-May-25,-,1100,-363890.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+15-May-25,-,1800,-365690.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+16-May-25,-,1100,-366790.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+16-May-25,-,800,-367590.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+17-May-25,-,2000,-369590.00,Apollo Pharmacy Medicines,Healthcare & Medical,Medicines & Pharmacy
+17-May-25,-,2000,-371590.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+19-May-25,-,2500,-374090.00,Apollo Hospital Prenatal Checkup,Healthcare & Medical,Maternity-related Expenses
+20-May-25,-,1100,-375190.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+21-May-25,-,2000,-377190.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+22-May-25,-,3000,-380190.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+22-May-25,-,800,-380990.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+24-May-25,-,2000,-382990.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+25-May-25,-,2500,-385490.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+26-May-25,-,1100,-386590.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+27-May-25,-,900,-387490.00,Swiggy Food Order,Food & Grocery,Packaged Snacks & Beverages
+27-May-25,-,2000,-389490.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+29-May-25,-,3000,-392490.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+30-May-25,-,2200,-394690.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+30-May-25,-,20000,-414690.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+30-May-25,-,800,-415490.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+31-May-25,-,2200,-417690.00,BigBasket Groceries,Food & Grocery,Online Grocery Services
+31-May-25,-,1100,-418790.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+31-May-25,-,2000,-420790.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+01-Jun-25,75000,-,-345790.00,SALARY CREDIT FROM INFOSYS,Income & Credits,Salary & Wages
+01-Jun-25,-,2000,-347790.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+02-Jun-25,-,2500,-350290.00,Apollo Hospital Prenatal Checkup,Healthcare & Medical,Maternity-related Expenses
+02-Jun-25,-,900,-351190.00,Swiggy Food Order,Food & Grocery,Packaged Snacks & Beverages
+02-Jun-25,-,2500,-353690.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+03-Jun-25,-,2500,-356190.00,Apollo Hospital Prenatal Checkup,Healthcare & Medical,Maternity-related Expenses
+03-Jun-25,-,1800,-357990.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+03-Jun-25,-,20000,-377990.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+04-Jun-25,-,3000,-380990.00,FirstCry Baby Essentials,Education & Childcare,Uniforms & School Supplies
+09-Jun-25,-,1100,-382090.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+10-Jun-25,-,4000,-386090.00,Apollo Hospital Ultrasound Scan,Healthcare & Medical,Diagnostic & Lab Tests
+11-Jun-25,-,5000,-391090.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+11-Jun-25,-,800,-391890.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+15-Jun-25,-,1500,-393390.00,PharmEasy Prenatal Vitamins,Healthcare & Medical,Medicines & Pharmacy
+16-Jun-25,-,1800,-395190.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+17-Jun-25,-,5000,-400190.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+18-Jun-25,-,2500,-402690.00,Apollo Hospital Prenatal Checkup,Healthcare & Medical,Maternity-related Expenses
+18-Jun-25,-,800,-403490.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+19-Jun-25,-,1800,-405290.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+21-Jun-25,-,2500,-407790.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+21-Jun-25,-,5000,-412790.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+22-Jun-25,-,2500,-415290.00,UrbanClap Home Cleaning,Home & Housing Expenses,House Renovation Improvement
+23-Jun-25,-,4000,-419290.00,Apollo Hospital Ultrasound Scan,Healthcare & Medical,Diagnostic & Lab Tests
+23-Jun-25,-,499,-419789.00,Netflix Subscription,Lifestyle & Entertainment,Subscription Services
+24-Jun-25,-,1100,-420889.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+25-Jun-25,-,4000,-424889.00,Apollo Hospital Ultrasound Scan,Healthcare & Medical,Diagnostic & Lab Tests
+25-Jun-25,-,5000,-429889.00,FirstCry Baby Furniture,Education & Childcare,Books & Stationery
+25-Jun-25,-,800,-430689.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+26-Jun-25,-,20000,-450689.00,HDFC Home Loan EMI,Home & Housing Expenses,Home Loan EMI
+27-Jun-25,-,1800,-452489.00,DMart Supermarket,Food & Grocery,Grocery Stores & Supermarkets
+27-Jun-25,-,800,-453289.00,Ola Cab Rides,Transportation & Commute,Cab & Taxi services
+29-Jun-25,-,1100,-454389.00,Zomato Online Food,Lifestyle & Entertainment,Dining & Restaurants
+29-Jun-25,-,2000,-456389.00,Myntra Maternity Wear,Personal Care & Grooming,Clothing & Footwear
+30-Jun-25,-,1500,-457889.00,PharmEasy Prenatal Vitamins,Healthcare & Medical,Medicines & Pharmacy
